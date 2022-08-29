@@ -1,5 +1,5 @@
 <script>
-	let html = '<p>Write some text!</p>';
+	let html = 'Write some text!';
 </script>
 
 <div contenteditable="true"></div>
