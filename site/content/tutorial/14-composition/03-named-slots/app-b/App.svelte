@@ -11,4 +11,8 @@
 		42 Wallaby Way<br>
 		Sydney
 	</span>
+	
+	<span slot="email">
+		psherman@yahoo.com<br>
+	</span>
 </ContactCard>
